@@ -15,40 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <!-- Java 로고 -->
-  <span>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <!--   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> -->
-  </span>
+<!-- Java 로고 -->
+<p>🦾 Back-End</p>
+<span>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> -->
+</span>
 
-  <!-- Spring 로고 -->
-  <span>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  </span>
+<!-- Spring 로고 -->
+<span>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+</span>
 
-  <br>
+<br>
 
-  <!-- JavaScript 로고 -->
-  <span>
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
-  </span>
+<!-- JavaScript 로고 -->
+<p>👀 Front-End></p>
+<span>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
+</span>
 
-  <!-- CSS 로고 -->
-  <span>
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
-  </span>
+<!-- CSS 로고 -->
+<span>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
+</span>
 
-  <br>
+<br>
 
-  <span>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  </span>
+<p>🛠 Dev-ops</p>
+<span>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</span>
 
-  <span>
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  </span>
-</p>
+<span>
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdghk1907&show_icons=true&theme=material-palenight)
 
