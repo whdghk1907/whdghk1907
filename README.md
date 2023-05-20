@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 <!-- JavaScript 로고 -->
 <span>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
 </span>
 
 <!-- CSS 로고 -->
 <span>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
 </span>
 
 <br>
