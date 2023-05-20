@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Java 로고 -->
 <span>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRITP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </span>
 
 <!-- Spring 로고 -->
