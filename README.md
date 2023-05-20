@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <!-- Java 로고 -->
 <p>🦾 Back-End</p>
+
+<br>
+
 <span>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> -->
@@ -31,6 +34,9 @@ Here are some ideas to get you started:
 
 <!-- JavaScript 로고 -->
 <p>👀 Front-End</p>
+
+<br>
+
 <span>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
 </span>
@@ -43,6 +49,9 @@ Here are some ideas to get you started:
 <br>
 
 <p>🛠 Dev-ops</p>
+
+<br>
+
 <span>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </span>
