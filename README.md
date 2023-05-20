@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <span>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 </span>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdghk1907&show_icons=true&theme=radical)
