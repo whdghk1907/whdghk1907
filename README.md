@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=#FFFFFF"/>
+<!-- Spring 로고 -->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
