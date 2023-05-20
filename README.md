@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- JavaScript 로고 -->
-<p>👀 Front-End></p>
+<p>👀 Front-End</p>
 <span>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
 </span>
