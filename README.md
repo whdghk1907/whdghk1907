@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
 <!-- JavaScript 로고 -->
 <p>👀 Front-End</p>
 <span>
@@ -46,7 +45,8 @@ Here are some ideas to get you started:
 
 <p>🛠 Dev-ops</p>
 <span>
-  <img src="https://img.shields.io/badge/Docker-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/docker-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  
 </span>
 
 <span>
