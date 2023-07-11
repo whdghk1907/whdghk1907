@@ -46,11 +46,10 @@ Here are some ideas to get you started:
 <p>🛠 Dev-ops</p>
 <span>
   <img src="https://img.shields.io/badge/docker-E6B91E?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  
 </span>
 
 <span>
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jenkins-333664?style=flat-square&logo=jenkins&logoColor=white"/></a>&nbsp 
 </span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdghk1907&show_icons=true&theme=material-palenight)
