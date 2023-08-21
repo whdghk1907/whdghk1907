@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@whdghk1908)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@whdghk1908)
   
 </div>
   
